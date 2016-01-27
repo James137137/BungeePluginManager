@@ -1,4 +1,4 @@
-package bungeepluginmanager;
+package nz.co.lolnet.LolnetBungeePluginManager;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

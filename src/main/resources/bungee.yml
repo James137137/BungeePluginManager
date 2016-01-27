@@ -1,0 +1,4 @@
+name: LolnetBungeePluginManager
+main: nz.co.lolnet.LolnetBungeePluginManager.LolnetBungeePluginManager
+version: 1.0
+author: _Shevchik_

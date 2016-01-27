@@ -1,9 +1,9 @@
-package bungeepluginmanager;
+package nz.co.lolnet.LolnetBungeePluginManager;
 
 import net.md_5.bungee.api.ProxyServer;
 import net.md_5.bungee.api.plugin.Plugin;
 
-public class BungeePluginManager extends Plugin {
+public class LolnetBungeePluginManager extends Plugin {
 
 	@Override
 	public void onEnable() {

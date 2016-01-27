@@ -1,4 +1,4 @@
-package bungeepluginmanager;
+package nz.co.lolnet.LolnetBungeePluginManager;
 
 import java.util.Collections;
 import java.util.Set;
